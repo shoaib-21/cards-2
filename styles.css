@@ -1,8 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    /* width: 100%;
-    height: 100%; */
     font-family: 'Red Hat Display', sans-serif;
 }
 
@@ -56,7 +54,7 @@ main{
     box-sizing: border-box;
     padding: 25px;
     box-shadow: 0 7px 22px -7px hsl(229, 59%, 86%);
-    position: relative;;
+    position: relative;
 }
 
 .block p{
